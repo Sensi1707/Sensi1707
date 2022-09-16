@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Sensi1707
 - 
 - 👀 I’m interested in ...
--   -> C# in Unity 
--   -> JavaScript
--      -> discord.js
+-   C# in Unity 
+-   JavaScript
+-      discord.js
 - 🌱 I’m currently learning ...
 -   -> C#
 - 💞️ I’m looking to collaborate on ...
