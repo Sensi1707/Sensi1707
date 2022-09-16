@@ -1,10 +1,14 @@
    👋 Hi, I’m @Sensi1707
- 
+ ⠀ 
    👀 I’m interested in ...
+   ⠀ 
      C# in Unity 
+     ⠀ 
      JavaScript (mostly for discord.js)
+   ⠀ 
    🌱 I’m currently learning ...
-       C#
+     C#
+     ⠀ 
    💞️ I’m looking to collaborate on ...
        anyone who speaks german and is interested
    📫 How to reach me:
