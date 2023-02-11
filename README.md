@@ -13,7 +13,7 @@
 -       anyone who speaks german and is interested
 -   📫 How to reach me:
 -       E-Mail: pixelsensi@gmail.com
--       Discord: sensi.or.something.like.that<3#3665
+-       Discord: Σ sensi.or.something.like.that<3#6969
 
 <!---
 Sensi1707/Sensi1707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
