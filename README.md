@@ -2,15 +2,15 @@
  ⠀ 
 -   👀 I’m interested in ...
    ⠀ 
--     C# in Unity 
+-     C# (mostly for Unity)
      ⠀ 
--     JavaScript (mostly for discord.js)
+-     JavaScript (mostly for Discord Bots)
    ⠀ 
 -   🌱 I’m currently learning ...
 -     C#
      ⠀ 
 -   💞️ I’m looking to collaborate on ...
--       anyone who speaks german and is interested
+-       Anyone :)
 -   📫 How to reach me:
 -       E-Mail: pixelsensi@gmail.com
 
