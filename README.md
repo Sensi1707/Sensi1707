@@ -1,18 +1,17 @@
--   👋 Hi, I’m @Sensi1707
- ⠀ 
--   👀 I’m interested in ...
-   ⠀ 
--     C# (mostly for Unity)
-     ⠀ 
--     JavaScript (mostly for Discord Bots)
-   ⠀ 
--   🌱 I’m currently learning ...
+👋 Hi, I’m @Sensi1707
+
+👀 I’m interested in ...
+-     Web Development (HTML, CSS, JS)
+-     NodeJS
+
+🌱 I’m currently learning ...
 -     C#
-     ⠀ 
--   💞️ I’m looking to collaborate on ...
--       Anyone :)
--   📫 How to reach me:
--       E-Mail: pixelsensi@gmail.com
+
+💞️ I’m looking to collaborate on ...
+-     Anyone :)
+
+📫 How to reach me:
+-     Discord: sensi.69
 
 
 <!---
