@@ -1,8 +1,8 @@
 👋 Hi, I’m @Sensi1707
 
 👀 I’m interested in ...
--     Web Development (HTML, CSS, JS)
 -     C++
+-     Web Development (HTML, CSS, JS)
 
 🌱 I’m currently learning ...
 -     C++
