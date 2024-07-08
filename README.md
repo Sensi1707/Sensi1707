@@ -2,10 +2,10 @@
 
 👀 I’m interested in ...
 -     Web Development (HTML, CSS, JS)
--     NodeJS
+-     C++
 
 🌱 I’m currently learning ...
--     C#
+-     C++
 
 💞️ I’m looking to collaborate on ...
 -     Anyone :)
