@@ -2,13 +2,13 @@
 
 👀 I’m interested in ...
 -     C++
--     Web Development (HTML, CSS, JS)
+-     Front-End Development
 
 🌱 I’m currently learning ...
 -     C++
 
 💞️ I’m looking to collaborate on ...
--     Anyone :)
+-     anything ig
 
 📫 How to reach me:
 -     Discord: sensi.77
