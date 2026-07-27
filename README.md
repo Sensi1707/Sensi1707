@@ -2,13 +2,15 @@
 
 👀 I’m interested in ...
 -     C++
+-     Android/KMP Compose Development
 -     Front-End Development
 
 🌱 I’m currently learning ...
 -     C++
 
 💞️ I’m looking to collaborate on ...
--     anything ig
+-     Astro Photography Software
+-     Open for anything else
 
 📫 How to reach me:
 -     Discord: sensi.77
